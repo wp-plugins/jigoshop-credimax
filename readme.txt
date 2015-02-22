@@ -1,5 +1,5 @@
 === Jigoshop Credimax ===
-Contributors: ali_ashoor
+Contributors: ali_ashoor, a7madev
 Tags: jigoshop, cart, checkout, ecommerce, shop, payment, gateway
 Requires at least: 3.2
 Tested up to: 4.1.1
